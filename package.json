@@ -5,11 +5,13 @@
   "main": "index.js",
   "dependencies": {
     "axios": "^0.21.1",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "netlify-lambda": "^2.0.3",
+    "serverless-http": "^2.7.0"
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node index.js"
+    "start": "node app.js"
   },
   "author": "saroro",
   "license": "ISC"

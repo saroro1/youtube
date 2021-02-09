@@ -1,5 +1,5 @@
-const CLIENTID = "YOUR_ID";
-const REDIRECT = "YOUR_SECRET";
+const CLIENTID = "YOUR_ID";  //클라이언트 아이디
+const REDIRECT = "YOUR_REDIRECT";  //리다이렉트 비번
 
 
 const SCOPE = "https://www.googleapis.com/auth/youtube"
